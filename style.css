@@ -1,0 +1,93 @@
+
+body
+{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+.name{
+    color:rgb(219, 20, 53)
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+
+    padding-left: 2%;
+
+
+}
+.half-width img{
+    width: 100%;
+    padding-bottom: 150px;
+}
+.header{
+    background-image: url(picture/header-bg.png);
+    background-repeat: no-repeat;
+
+}
+section{
+    height: 500px;
+}
+
+.career{
+    background-image: url(picture/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single-ex{
+
+    box-shadow:10px 10px 40px  gray;
+    border-radius: 10px;
+
+
+}
+
+
+
+
+.cv{
+    text-align: center;
+}
+.career1{
+    background-color: rgb(115, 115, 158);
+    text-align: left;
+    width: 86%;
+    
+    margin-left: 5%;
+
+    padding-left: 2%;
+}
+.co{
+    
+
+    width: 86%;
+    
+    margin-left: 5%;
+
+    padding-left: 2%;
+}
+
+table{
+    
+   
+    
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+      border: 1px solid #dddddd;
+      text-align: center;
+      padding: 8px;
+    }
+    
+    tr:nth-child(even) {
+      background-color: #62818b;
+    }
+
